@@ -1,0 +1,19 @@
+Play play
+Play start
+Play start playing
+Play play now
+Play classical
+Play classical music
+Play play classical music
+Play public domain
+Play play public domain
+AMAZON.StopIntent quit
+AMAZON.StopIntent shut up
+AMAZON.StopIntent shut-up
+AMAZON.StopIntent shutup
+AMAZON.StopIntent enough
+AMAZON.StopIntent all done
+AMAZON.StopIntent zip it
+AMAZON.StopIntent zipit
+AMAZON.StopIntent zip-it
+AMAZON.StopIntent shutup
